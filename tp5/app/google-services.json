@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762300482993",
+    "project_id": "sirine-e71e0",
+    "storage_bucket": "sirine-e71e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762300482993:android:bed7eb138cc4d172bf2990",
+        "android_client_info": {
+          "package_name": "com.example.tp5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQuctcCgVkdCXr1-BVAOZUmGzTcuHtggA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
